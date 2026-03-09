@@ -8,8 +8,8 @@
 #include <BlynkSimpleEsp32.h>
 #include <DHT.h>
 
-char ssid[] = "rithuparan";
-char pass[] = "rithu@1826";
+char ssid[] = "harsha";
+char pass[] = "harsha@0984";
 
 #define DHTPIN 4
 #define MQ_PIN 35
